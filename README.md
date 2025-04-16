@@ -5,10 +5,8 @@ The content is primarily based on coursework, examples, and practical exercises 
 
 ## Contents
 
-- Robot control algorithms
-- Sensor integration examples
-- Motion and navigation logic
-- Lab assignments and exercises
+- Arduino-based robot control algorithms
+- Python scripts for testing
 
 ## Course Information
 
